@@ -45,8 +45,11 @@ about:
   description: |
     TensorLy-Quantum is a Python library for Tensor-Based Quantum 
     Machine Learning that builds on top of 
-    [TensorLy](https://github.com/tensorly/tensorly/)
-    and [PyTorch](https://pytorch.org/).
+    [TensorLy][#tensorly]
+    and [PyTorch][#pytorch].
+    
+    [#tensorly]: https://github.com/tensorly/tensorly/
+    [#pytorch]: https://pytorch.org/
     
   doc_url: http://tensorly.org/quantum/dev/
   dev_url: https://github.com/tensorly/quantum
